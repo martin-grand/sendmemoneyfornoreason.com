@@ -1,7 +1,7 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="595.28px" height="380.981px" viewBox="0 0 595.28 380.981" enable-background="new 0 0 595.28 380.981"
 	 xml:space="preserve">
-<text transform="matrix(1 0 0 1 34.6401 45.8965)" font-family="Arial" font-size="12">Random data</text>
+<text transform="matrix(1 0 0 1 34.6401 45.8965)" font-family="Arial" font-size="17">Random data</text>
 <path fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="M34.64,188.896
 	c7.684-9.608,18.193-23.667,29.192-29.626c2.968,1.901,4.292,4.884,3.959,8.475c4.121,0.692,7.879-3.801,10.8-3.007
 	c6.6,1.793,9.992,15.414,12.196,21.095c9.557-5.538,14.188-14.09,25.83-18.155c9.441-3.297,19.976-3.65,30.016-2.83
@@ -30,12 +30,12 @@
 	c4.375-1.927,10.865,1.226,16.012-0.599c3.259-1.156,3.278-2.817,6.375-1.79c1.608,0.533,2.029,3.124,4.613,3.389"/>
 <path fill="none" stroke="#0059ff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="M299,287.809
 	c4.375-1.928,10.865,1.227,16.012-0.599c3.259-1.155,3.278-2.817,6.375-1.79c1.608,0.533,2.029,3.124,4.613,3.389"/>
-<text transform="matrix(1 0 0 1 353.5 256.3965)" font-family="Arial" font-size="12">Visitors</text>
-<text transform="matrix(1 0 0 1 353.5 291.3525)" font-family="Arial" font-size="12">Did sent money</text>
+<text transform="matrix(1 0 0 1 353.5 256.3965)" font-family="Arial" font-size="17">Visitors</text>
+<text transform="matrix(1 0 0 1 353.5 291.3525)" font-family="Arial" font-size="17">Did sent money</text>
 <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M38,206.396
 	c-7.544,10.064-13.821,18.104-19.024,30.109c-7.005,16.161-4.71,33.396,0.133,49.926c6.208,21.188,16.183,40.961,35.964,52.188
 	c19.487,11.06,47.748,15.277,69.926,15.277"/>
 <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M14.04,219.371
 	c8.136-0.665,15.69-10.573,23.96-12.974c-3.28,7.178-6.673,15.65-8.96,22.974"/>
-<text transform="matrix(1 0 0 1 143.5 356.8965)" font-family="Arial" font-size="12">There is a gap</text>
+<text transform="matrix(1 0 0 1 143.5 356.8965)" font-family="Arial" font-size="17">There is a gap</text>
 </svg>
