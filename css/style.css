@@ -16,6 +16,10 @@ a {
     cursor: pointer;
 }
 
+a[href]:not(.button):hover {
+    text-decoration: underline;
+}
+
 .button {
     display: block;
     padding: 10px 0;
