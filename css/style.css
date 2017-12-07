@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,900');
+
+body,
+html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    font-family: 'Lato', sans-serif;
+}
+
+a {
+    color: #0059ff;
+    font-weight: bold;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.button {
+    display: block;
+    padding: 10px 0;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+p {
+    line-height: 1.4em;
+}
+
+.the.wrapper {
+    max-width: 600px;
+    margin: 0 auto;
+    height: 100%;
+    box-sizing: border-box;
+}
+
+.the.wrapper img {
+    width: 100%;
+}
+
+[data-answer-block]:not(.open) p,
+[data-answer-block]:not(.open) [data-answer-block]:not(.open) a {
+    display: none;
+}
+
+[data-answer-block].open > .button {
+    color: #000;
+    pointer-events: none;
+}
+
+[data-answer-block].open > .button:before {
+    content: '- ';
+}
+
+.the.centering.manager {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100%;
+}
+
+.the.gap.manager {
+    padding: 60px 0;
+    width: 100%;
+}
+
+.the.overlay {
+    display: none;
+}
+
+[data-wrapper="overlay"] [data-answer-block],
+[data-wrapper="overlay"] [data-open-overlay] {
+    display: none;
+}
+
+[data-wrapper="overlay"] .the.overlay {
+    display: block;
+}
