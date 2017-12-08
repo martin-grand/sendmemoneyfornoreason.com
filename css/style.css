@@ -53,7 +53,9 @@ p {
 }
 
 .the.wrapper img {
-    width: 100%;
+    display: block;
+    max-width: 420px;
+    margin: 60px auto;
 }
 
 p {
@@ -63,6 +65,7 @@ p {
 }
 
 [data-answer-block]:not(.open) p,
+[data-answer-block]:not(.open) .sharethis-inline-share-buttons,
 [data-answer-block]:not(.open) [data-answer-block]:not(.open) a {
     margin: 0;
     padding: 0;
